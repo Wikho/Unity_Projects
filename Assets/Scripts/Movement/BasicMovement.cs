@@ -15,5 +15,10 @@ namespace SoundTest
         {
         
         }
+
+        void Awake()
+        {
+            
+        }
     }
 }
